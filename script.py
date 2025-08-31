@@ -19,3 +19,4 @@ def check_ping(ip):
 for ip in ips:
     check_ping(ip)
 
+#### MODIFICADO
